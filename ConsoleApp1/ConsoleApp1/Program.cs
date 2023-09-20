@@ -115,30 +115,66 @@
             //        break;
             //}
 
-            Console.Write("Enter character (+, - , * , / ) : ");
-            char operators = Convert.ToChar(Console.ReadLine());
-            Console.Write("Enter a number : ");
-            int num1 = Convert.ToInt32(Console.ReadLine());
-            Console.Write("Enter another number : ");
-            int num2 = Convert.ToInt32(Console.ReadLine());
+            //Console.Write("Enter character (+, - , * , / ) : ");
+            //char operators = Convert.ToChar(Console.ReadLine());
+            //Console.Write("Enter a number : ");
+            //int num1 = Convert.ToInt32(Console.ReadLine());
+            //Console.Write("Enter another number : ");
+            //int num2 = Convert.ToInt32(Console.ReadLine());
 
-            switch (operators)
+            //switch (operators)
+            //{
+            //    case '+':
+            //        Console.WriteLine($"Additon of {num1} and {num2} is ({num1 + num2})");
+            //        break;
+            //    case '-':
+            //        Console.WriteLine($"Subtraction of {num1} and {num2} is ({num1 - num2})");
+            //        break;
+            //    case '*':
+            //        Console.WriteLine($"Multiplication of {num1} and {num2} is ({num1 * num2})");
+            //        break;
+            //    case '/':
+            //        Console.WriteLine($"Division of {num1} and {num2} is ({num1 / num2})");
+            //        break;
+            //    default:
+            //        Console.WriteLine("Default case");
+            //        break;
+            //}
+
+
+
+            //Loops 
+
+            //for(int i = 0; i < 10; i++)
+            //{
+            //    Console.WriteLine("Hello World\n");
+            //}
+
+
+            //int i = 0;
+            //while (i != 0)
+            //{
+            //    Console.WriteLine(i);
+            //    //i++;
+            //    i = Convert.ToInt32(Console.ReadLine());
+            //}
+
+            //int i = 0;
+            //do
+            //{
+            //    Console.WriteLine("Enter a number (1-4): ");
+            //    i = Convert.ToInt32(Console.ReadLine());    
+            //}while (i < 1 || i > 4);
+
+            //nested loop
+
+            for(int i = 0; i < 5; i++)  //outer loop
             {
-                case '+':
-                    Console.WriteLine($"Additon of {num1} and {num2} is ({num1 + num2})");
-                    break;
-                case '-':
-                    Console.WriteLine($"Subtraction of {num1} and {num2} is ({num1 - num2})");
-                    break;
-                case '*':
-                    Console.WriteLine($"Multiplication of {num1} and {num2} is ({num1 * num2})");
-                    break;
-                case '/':
-                    Console.WriteLine($"Division of {num1} and {num2} is ({num1 / num2})");
-                    break;
-                default:
-                    Console.WriteLine("Default case");
-                    break;
+                for(int j = 0; j < 5; j++)   //inner loop
+                {
+                    Console.Write(" * ");
+                }
+                Console.WriteLine();
             }
         }
     }
