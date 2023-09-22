@@ -1,0 +1,15 @@
+C:\Users\sabayasmeen\source\repos\classes&objects\classes&objects\bin\Debug\net6.0\classes&objects.exe
+C:\Users\sabayasmeen\source\repos\classes&objects\classes&objects\bin\Debug\net6.0\classes&objects.deps.json
+C:\Users\sabayasmeen\source\repos\classes&objects\classes&objects\bin\Debug\net6.0\classes&objects.runtimeconfig.json
+C:\Users\sabayasmeen\source\repos\classes&objects\classes&objects\bin\Debug\net6.0\classes&objects.dll
+C:\Users\sabayasmeen\source\repos\classes&objects\classes&objects\bin\Debug\net6.0\classes&objects.pdb
+C:\Users\sabayasmeen\source\repos\classes&objects\classes&objects\obj\Debug\net6.0\classes&objects.csproj.AssemblyReference.cache
+C:\Users\sabayasmeen\source\repos\classes&objects\classes&objects\obj\Debug\net6.0\classes&objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabayasmeen\source\repos\classes&objects\classes&objects\obj\Debug\net6.0\classes&objects.AssemblyInfoInputs.cache
+C:\Users\sabayasmeen\source\repos\classes&objects\classes&objects\obj\Debug\net6.0\classes&objects.AssemblyInfo.cs
+C:\Users\sabayasmeen\source\repos\classes&objects\classes&objects\obj\Debug\net6.0\classes&objects.csproj.CoreCompileInputs.cache
+C:\Users\sabayasmeen\source\repos\classes&objects\classes&objects\obj\Debug\net6.0\classes&objects.dll
+C:\Users\sabayasmeen\source\repos\classes&objects\classes&objects\obj\Debug\net6.0\refint\classes&objects.dll
+C:\Users\sabayasmeen\source\repos\classes&objects\classes&objects\obj\Debug\net6.0\classes&objects.pdb
+C:\Users\sabayasmeen\source\repos\classes&objects\classes&objects\obj\Debug\net6.0\classes&objects.genruntimeconfig.cache
+C:\Users\sabayasmeen\source\repos\classes&objects\classes&objects\obj\Debug\net6.0\ref\classes&objects.dll

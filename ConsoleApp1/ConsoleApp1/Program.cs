@@ -168,14 +168,56 @@
 
             //nested loop
 
-            for(int i = 0; i < 5; i++)  //outer loop
+            //for(int i = 0; i < 5; i++)  //outer loop
+            //{
+            //    for(int j = 0; j < 5; j++)   //inner loop
+            //    {
+            //        Console.Write(" * ");
+            //    }
+            //    Console.WriteLine();
+            //}
+
+
+            //Arrays  
+
+            string[] students = new string[] { "Ahmed", "Usman", "Ali", "Huzaifa" };
+            //Console.WriteLine(students[0]);
+
+            for (int i = 0; i < students.Length; i++)
             {
-                for(int j = 0; j < 5; j++)   //inner loop
-                {
-                    Console.Write(" * ");
-                }
-                Console.WriteLine();
+                Console.WriteLine(students[i]);
             }
+
+
+            int[][] number = new int[3][];
+            number[0] = new int[3] { 1, 2, 3 };
+            number[1] = new int[3] { 1, 2, 3 };
+            number[2] = new int[3] { 1, 2, 3 };
+           
+
+            for (int i = 0; i < number.GetLength(0); i++)
+            {
+                for (int j = 0; j < number[i].GetLength(0) ; j++)
+                {
+                    Console.WriteLine(number[i][j]);
+                }
+            }
+
+
+            string[][] companies = new string[3][];
+            companies[0] = new string[] {"Abc" ,"Xyz" };
+            companies[1] = new string[] {"Abc" ,"Xyz" ,"qwe" };
+            companies[2] = new string[] {"Abc" ,"Xyz", "uyt", "bvn"};
+
+            for(int i = 0; i < companies.Length; i++)
+            {
+                for(int j= 0; j < companies[i].Length; j++)
+                {
+                    Console.WriteLine(companies[i][j]);
+                }
+            }
+
+
         }
     }
 }
