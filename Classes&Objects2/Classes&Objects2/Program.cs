@@ -5,22 +5,27 @@
         static void Main(string[] args)
         {
 
-            Person obj = new Person();
-            
+            Person obj = new Person("Ali", 10);
 
             Console.WriteLine("Person name is : "+obj.name);
             Console.WriteLine("Person age is : "+obj.age);
             obj.eating();
             obj.walking();
 
-            Person obj1 = new Person();
-            obj1.name = "Ahmed";
-            obj1.age = 6;
 
-            Console.WriteLine("Person name is : {0}\nPerson age is : {1}",obj1.name,obj1.age);
-            obj1.eating();
-            obj1.walking();
+            Person objperson = new Person(7, "Ahmed");
+            Console.WriteLine(objperson.name);
+            Console.WriteLine(objperson.age);
+            objperson.eating();
+            objperson.walking();
 
+
+            Person obj2 = new Person();
+            obj2.name = "Hassan";
+            Console.WriteLine(obj2.name);
+
+            Person obj3 = new Person("Huzaifa");
+            obj3.eating();
         }
     }
 }
