@@ -1,0 +1,15 @@
+C:\Users\sabayasmeen\source\repos\Namespaces&exeptionhandling\Namespaces&exeptionhandling\bin\Debug\net6.0\Namespaces&exeptionhandling.exe
+C:\Users\sabayasmeen\source\repos\Namespaces&exeptionhandling\Namespaces&exeptionhandling\bin\Debug\net6.0\Namespaces&exeptionhandling.deps.json
+C:\Users\sabayasmeen\source\repos\Namespaces&exeptionhandling\Namespaces&exeptionhandling\bin\Debug\net6.0\Namespaces&exeptionhandling.runtimeconfig.json
+C:\Users\sabayasmeen\source\repos\Namespaces&exeptionhandling\Namespaces&exeptionhandling\bin\Debug\net6.0\Namespaces&exeptionhandling.dll
+C:\Users\sabayasmeen\source\repos\Namespaces&exeptionhandling\Namespaces&exeptionhandling\bin\Debug\net6.0\Namespaces&exeptionhandling.pdb
+C:\Users\sabayasmeen\source\repos\Namespaces&exeptionhandling\Namespaces&exeptionhandling\obj\Debug\net6.0\Namespaces&exeptionhandling.csproj.AssemblyReference.cache
+C:\Users\sabayasmeen\source\repos\Namespaces&exeptionhandling\Namespaces&exeptionhandling\obj\Debug\net6.0\Namespaces&exeptionhandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabayasmeen\source\repos\Namespaces&exeptionhandling\Namespaces&exeptionhandling\obj\Debug\net6.0\Namespaces&exeptionhandling.AssemblyInfoInputs.cache
+C:\Users\sabayasmeen\source\repos\Namespaces&exeptionhandling\Namespaces&exeptionhandling\obj\Debug\net6.0\Namespaces&exeptionhandling.AssemblyInfo.cs
+C:\Users\sabayasmeen\source\repos\Namespaces&exeptionhandling\Namespaces&exeptionhandling\obj\Debug\net6.0\Namespaces&exeptionhandling.csproj.CoreCompileInputs.cache
+C:\Users\sabayasmeen\source\repos\Namespaces&exeptionhandling\Namespaces&exeptionhandling\obj\Debug\net6.0\Namespaces&exeptionhandling.dll
+C:\Users\sabayasmeen\source\repos\Namespaces&exeptionhandling\Namespaces&exeptionhandling\obj\Debug\net6.0\refint\Namespaces&exeptionhandling.dll
+C:\Users\sabayasmeen\source\repos\Namespaces&exeptionhandling\Namespaces&exeptionhandling\obj\Debug\net6.0\Namespaces&exeptionhandling.pdb
+C:\Users\sabayasmeen\source\repos\Namespaces&exeptionhandling\Namespaces&exeptionhandling\obj\Debug\net6.0\Namespaces&exeptionhandling.genruntimeconfig.cache
+C:\Users\sabayasmeen\source\repos\Namespaces&exeptionhandling\Namespaces&exeptionhandling\obj\Debug\net6.0\ref\Namespaces&exeptionhandling.dll
