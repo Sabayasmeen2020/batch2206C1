@@ -1,0 +1,15 @@
+C:\Users\sabayasmeen\source\repos\encryptionDecryption\encryptionDecryption\bin\Debug\net6.0\encryptionDecryption.exe
+C:\Users\sabayasmeen\source\repos\encryptionDecryption\encryptionDecryption\bin\Debug\net6.0\encryptionDecryption.deps.json
+C:\Users\sabayasmeen\source\repos\encryptionDecryption\encryptionDecryption\bin\Debug\net6.0\encryptionDecryption.runtimeconfig.json
+C:\Users\sabayasmeen\source\repos\encryptionDecryption\encryptionDecryption\bin\Debug\net6.0\encryptionDecryption.dll
+C:\Users\sabayasmeen\source\repos\encryptionDecryption\encryptionDecryption\bin\Debug\net6.0\encryptionDecryption.pdb
+C:\Users\sabayasmeen\source\repos\encryptionDecryption\encryptionDecryption\obj\Debug\net6.0\encryptionDecryption.csproj.AssemblyReference.cache
+C:\Users\sabayasmeen\source\repos\encryptionDecryption\encryptionDecryption\obj\Debug\net6.0\encryptionDecryption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabayasmeen\source\repos\encryptionDecryption\encryptionDecryption\obj\Debug\net6.0\encryptionDecryption.AssemblyInfoInputs.cache
+C:\Users\sabayasmeen\source\repos\encryptionDecryption\encryptionDecryption\obj\Debug\net6.0\encryptionDecryption.AssemblyInfo.cs
+C:\Users\sabayasmeen\source\repos\encryptionDecryption\encryptionDecryption\obj\Debug\net6.0\encryptionDecryption.csproj.CoreCompileInputs.cache
+C:\Users\sabayasmeen\source\repos\encryptionDecryption\encryptionDecryption\obj\Debug\net6.0\encryptionDecryption.dll
+C:\Users\sabayasmeen\source\repos\encryptionDecryption\encryptionDecryption\obj\Debug\net6.0\refint\encryptionDecryption.dll
+C:\Users\sabayasmeen\source\repos\encryptionDecryption\encryptionDecryption\obj\Debug\net6.0\encryptionDecryption.pdb
+C:\Users\sabayasmeen\source\repos\encryptionDecryption\encryptionDecryption\obj\Debug\net6.0\encryptionDecryption.genruntimeconfig.cache
+C:\Users\sabayasmeen\source\repos\encryptionDecryption\encryptionDecryption\obj\Debug\net6.0\ref\encryptionDecryption.dll
