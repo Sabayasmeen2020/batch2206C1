@@ -1,0 +1,17 @@
+﻿
+
+@{
+    if(ViewBag.num > 0)
+    {
+        @ViewBag.num
+        ;
+        for(int i = 1; i <= 10; i++)
+        {
+            <p>@ViewBag.num x @i = @ViewBag.num * @i </p>
+        }
+    }
+    else
+    {
+        <p>Product is not available</p>
+    }
+}

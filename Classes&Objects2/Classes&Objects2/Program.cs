@@ -26,6 +26,8 @@
 
             Person obj3 = new Person("Huzaifa");
             obj3.eating();
+
+            Person obj4 = new Person(3);
         }
     }
 }
