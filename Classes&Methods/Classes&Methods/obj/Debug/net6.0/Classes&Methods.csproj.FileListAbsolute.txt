@@ -1,0 +1,15 @@
+C:\Users\sabayasmeen\source\repos\Classes&Methods\Classes&Methods\bin\Debug\net6.0\Classes&Methods.exe
+C:\Users\sabayasmeen\source\repos\Classes&Methods\Classes&Methods\bin\Debug\net6.0\Classes&Methods.deps.json
+C:\Users\sabayasmeen\source\repos\Classes&Methods\Classes&Methods\bin\Debug\net6.0\Classes&Methods.runtimeconfig.json
+C:\Users\sabayasmeen\source\repos\Classes&Methods\Classes&Methods\bin\Debug\net6.0\Classes&Methods.dll
+C:\Users\sabayasmeen\source\repos\Classes&Methods\Classes&Methods\bin\Debug\net6.0\Classes&Methods.pdb
+C:\Users\sabayasmeen\source\repos\Classes&Methods\Classes&Methods\obj\Debug\net6.0\Classes&Methods.csproj.AssemblyReference.cache
+C:\Users\sabayasmeen\source\repos\Classes&Methods\Classes&Methods\obj\Debug\net6.0\Classes&Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabayasmeen\source\repos\Classes&Methods\Classes&Methods\obj\Debug\net6.0\Classes&Methods.AssemblyInfoInputs.cache
+C:\Users\sabayasmeen\source\repos\Classes&Methods\Classes&Methods\obj\Debug\net6.0\Classes&Methods.AssemblyInfo.cs
+C:\Users\sabayasmeen\source\repos\Classes&Methods\Classes&Methods\obj\Debug\net6.0\Classes&Methods.csproj.CoreCompileInputs.cache
+C:\Users\sabayasmeen\source\repos\Classes&Methods\Classes&Methods\obj\Debug\net6.0\Classes&Methods.dll
+C:\Users\sabayasmeen\source\repos\Classes&Methods\Classes&Methods\obj\Debug\net6.0\refint\Classes&Methods.dll
+C:\Users\sabayasmeen\source\repos\Classes&Methods\Classes&Methods\obj\Debug\net6.0\Classes&Methods.pdb
+C:\Users\sabayasmeen\source\repos\Classes&Methods\Classes&Methods\obj\Debug\net6.0\Classes&Methods.genruntimeconfig.cache
+C:\Users\sabayasmeen\source\repos\Classes&Methods\Classes&Methods\obj\Debug\net6.0\ref\Classes&Methods.dll
