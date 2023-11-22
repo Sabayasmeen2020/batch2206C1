@@ -1,0 +1,29 @@
+﻿@model IEnumerable<template.Models.User>
+<br />
+<br />
+<br />
+<br />
+<br />
+<table class="table w-50 mt-5 mx-auto table-striped">
+    <thead>
+        <tr>
+            <th scope="col">Name</th>
+            <th scope="col">Email</th>
+            <th scope="col">Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var i in Model)
+        {
+            <tr>
+                <td>@i.Name</td>
+                <td>@i.Email</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@i.Id">Edit</a>
+                    <a asp-action="Delete" asp-route-id="@i.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
